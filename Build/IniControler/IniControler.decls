@@ -1,6 +1,7 @@
 ; IniControler - A part of BlitzToolBox
 ; Write & Read ini file.
 ; v1.07 2023.7.14
+;写的什么机霸玩意---------------------晨魔
 ; https://github.com/ZiYueCommentary/BlitzToolbox
 
 .lib "IniControler.dll"
